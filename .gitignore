@@ -1,0 +1,9 @@
+
+*.pyc
+*.ini
+*.spyproject
+*.ipynb_checkpoints
+__pycache__
+.idea
+*.log
+*.exe
