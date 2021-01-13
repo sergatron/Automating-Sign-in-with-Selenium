@@ -10,4 +10,4 @@ Execute script:
 
 ```python autologin.py```
 
-
+Then follow directions to provide credentials and dates.
