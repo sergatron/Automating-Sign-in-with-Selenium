@@ -4,6 +4,8 @@ This script uses Selenium to navigate to the NY's EZPass url and through the web
 
 # Usage
 
+Download Chrome Driver [here](https://chromedriver.chromium.org/downloads)
+
 Execute script:
 
 ```python autologin.py```
